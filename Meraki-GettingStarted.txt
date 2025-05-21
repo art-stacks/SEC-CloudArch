@@ -41,3 +41,8 @@ Based on your monitor number:
         SSID 2 = 21        22
         SSID 3 = 31        32
         SSID 4 = 41        42
+
+********
+
+
+******************** CONFIGURE FIREWALL
