@@ -48,7 +48,7 @@ Based on your monitor number:
 ******************** CONFIGURE FIREWALL
 
 Block Schools
-www.sti.edu 122.55.48.155
+www.ust.edu.ph 202.65.183.189
 www.dlsu.edu.ph 104.22.36.142
 up.edu.ph 192.0.78.250
 
