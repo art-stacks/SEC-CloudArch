@@ -47,24 +47,21 @@ Based on your monitor number:
 
 ******************** CONFIGURE FIREWALL
 
-Block Torrents
-www.thepiratebay.org   162.159.
-www.limetorrents.com    172.67.
-www.freeanimeonline.com   76.223.
+Block Schools
+www.sti.edu 122.55.48.155
+www.dlsu.edu.ph 104.22.36.142
+up.edu.ph 192.0.78.250
 
-Block Porn
-www.youporn.com 66.254.114.79
-www.pornhub.com 66.254.114.41
-www.redtube.com 66.254.114.23
-www.faketaxi.com 66.254.114.234
-bangbus.com      104.21.80.1
-www.bangbus.com  104.21.112.1
-
-www.pinayflix.com 104.21.234.3
-xhamster.com 88.208.29.180
 
 Block Facebook
 www.facebook.com
 
 But Allow Instagram
 www.instagram.com
+
+
+
+Actual (WireShark)
+www.thepiratebay.org   172.67.136.186
+www.limetorrents.com    172.67.
+www.freeanimeonline.com   76.223.
