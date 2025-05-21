@@ -48,20 +48,9 @@ Based on your monitor number:
 ******************** CONFIGURE FIREWALL
 
 Block Schools
-www.ust.edu.ph 202.65.183.189
-www.dlsu.edu.ph 104.22.36.142
-up.edu.ph 192.0.78.250
-
-
-Block Facebook
-www.facebook.com
-
-But Allow Instagram
-www.instagram.com
+www.ust.edu.ph 202.65.x.x
+www.dlsu.edu.ph 104.22.x.x
+up.edu.ph 192.0.x.x
 
 
 
-Actual (WireShark)
-www.thepiratebay.org   172.67.136.186
-www.limetorrents.com    172.67.
-www.freeanimeonline.com   76.223.
