@@ -1,29 +1,34 @@
-CODA: https://coda.io/d/_dMQA_LJ6btE/Remote-Network-Deployment-Network-Admin_suZ_8Y6s
+GUIDE: https://coda.io/d/_dMQA_LJ6btE/Remote-Network-Deployment-Network-Admin_suZ_8Y6s
 
-User Pass:
-    For Students (Dashboard)
+******************** ACCOUNTS 
+
+    MERAKI DASHBOARD
+        [X1]
         USER: rivanmeraki1@gmail.com
         PASS: C1sc0,123
 
+        [X2]
         USER: rivanmeraki2@gmail.com
         PASS: C1sc0,123
 
-    GMAIL Account
+
+    GMAIL ACCOUNT (FOR VERIFICATION)
+        [X1]
         USER: rivanmeraki1@gmail.com
         PASS: C1sc0123$$
 
+        [X2]
         USER: rivanmeraki2@gmail.com
         PASS: C1sc0123$$
 
+********
 
-Introduce Cisco Meraki
--SD Networking
--Create User Account
-    Network-Wide > General
--Monitoring
-Discuss NetFlow
 
--Create VLANs
--Configure SSID
--DHCP
--Wireless
+******************** CREATE SUBNETS
+
+Based on your monitor number:
+    Network: 10.10.m.0/24
+    SVI: 10.10.m.1
+    DHCP: Reserve First 100 IPs
+
+    Assign SSID:
