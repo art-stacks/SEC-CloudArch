@@ -3,10 +3,12 @@ GUIDE: https://coda.io/d/_dMQA_LJ6btE/Remote-Network-Deployment-Network-Admin_su
 ******************** ACCOUNTS 
 
     MERAKI DASHBOARD
+        RivanCyber Training Institute - Branch A
         [X1]
         USER: rivanmeraki1@gmail.com
         PASS: C1sc0,123
 
+        RivanCyber Training Institute - Branch B
         [X2]
         USER: rivanmeraki2@gmail.com
         PASS: C1sc0,123
@@ -27,6 +29,7 @@ GUIDE: https://coda.io/d/_dMQA_LJ6btE/Remote-Network-Deployment-Network-Admin_su
 ******************** CREATE SUBNETS
 
 Based on your monitor number:
+    VLAN: Based on your Monitor Number
     Network: 10.10.m.0/24
     SVI: 10.10.m.1
     DHCP: Reserve First 100 IPs
