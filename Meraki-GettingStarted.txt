@@ -35,3 +35,9 @@ Based on your monitor number:
     DHCP: Reserve First 100 IPs
 
     Assign SSID:
+    
+    Branch A            Branch B
+        SSID 1 = 11        12
+        SSID 2 = 21        22
+        SSID 3 = 31        32
+        SSID 4 = 41        42
