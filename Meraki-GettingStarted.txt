@@ -1,0 +1,29 @@
+CODA: https://coda.io/d/_dMQA_LJ6btE/Remote-Network-Deployment-Network-Admin_suZ_8Y6s
+
+User Pass:
+    For Students (Dashboard)
+        USER: rivanmeraki1@gmail.com
+        PASS: C1sc0,123
+
+        USER: rivanmeraki2@gmail.com
+        PASS: C1sc0,123
+
+    GMAIL Account
+        USER: rivanmeraki1@gmail.com
+        PASS: C1sc0123$$
+
+        USER: rivanmeraki2@gmail.com
+        PASS: C1sc0123$$
+
+
+Introduce Cisco Meraki
+-SD Networking
+-Create User Account
+    Network-Wide > General
+-Monitoring
+Discuss NetFlow
+
+-Create VLANs
+-Configure SSID
+-DHCP
+-Wireless
