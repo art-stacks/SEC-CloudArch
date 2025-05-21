@@ -46,3 +46,23 @@ Based on your monitor number:
 
 
 ******************** CONFIGURE FIREWALL
+
+Block Torrents
+www.thepiratebay.org   162.159.
+www.limetorrents.com    172.67.
+www.freeanimeonline.com   76.223.
+
+Block Porn
+www.youporn.com 66.254.114.79
+www.pornhub.com 66.254.114.41
+www.redtube.com 66.254.114.23
+www.faketaxi.com 66.254.114.234
+bangbros.com
+bangbus.com      104.21.80.1
+www.bangbus.com  104.21.112.1
+
+www.pinayflix.com 104.21.234.3
+xhamster.com 88.208.29.180
+
+Block Facebook
+www.facebook.com
