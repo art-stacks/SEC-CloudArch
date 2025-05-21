@@ -65,3 +65,6 @@ xhamster.com 88.208.29.180
 
 Block Facebook
 www.facebook.com
+
+But Allow Instagram
+www.instagram.com
